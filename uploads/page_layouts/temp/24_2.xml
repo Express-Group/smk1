@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template templateid = "9" pageid = "52" templatevalues="3-7,5-3"><tplcontainer name="template-wrapper-top" master-tcid="13">
+<widgetcontainer type = "1" id ="container-1501307872966"  containervalue="12">
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="14">
+<widgetcontainer type = "1" id ="container-1501307875853"  containervalue="12">
+<widget id ="41" widgetTitle ="Article Details" widgetorder_in_container ="1" data-widgetid="41" data-widgetname="Article Details" data-minimumcontent="1" data-maximumcontent="0" data-contenttype="1" data-widgetfilepath="admin/widgets/article_details" data-widgetstyle="1" data-renderingtype="1" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="0" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned_instance_id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/article_details-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="52" data-widgetinstanceid="371"  >
+</widget>
+</widgetcontainer>
+<widgetcontainer type = "1" id ="container-1501307884022"  containervalue="12">
+<widget id ="123" widgetTitle ="Raw Script Dont use" widgetorder_in_container ="1" data-widgetid="123" data-widgetname="Raw Script Dont use" data-minimumcontent="0" data-maximumcontent="0" data-contenttype="2" data-widgetfilepath="admin/widgets/raw_script" data-widgetstyle="1" data-renderingtype="3" data-isrelatedarticleavailable="0" data-iswidgettitleconfigurable="1" data-issummaryavailable="0" data-createdby="1" data-createdon="0000-00-00 00:00:00" data-modifiedby="0" data-modifiedon="0000-00-00 00:00:00" data-status="1" data-clonedstatus="" data-cloned_instance_id="" data-clonedfrom="" data-widgetthumbnailpath="images/admin/template_design/images/widget_images/raw_script-small.jpg" data-clonedinstanceid="" data-widgetcontainerorderid="1" data-widgetpageid="52" data-widgetinstanceid="370"  >
+</widget>
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-left" master-tcid="15">
+<widgetcontainer type = "1" id ="container-1501307877173"  containervalue="12">
+</widgetcontainer>
+</tplcontainer>
+<tplcontainer name="template-wrapper-footer" master-tcid="16">
+<widgetcontainer type = "1" id ="container-1501307878718"  containervalue="12">
+</widgetcontainer>
+</tplcontainer>
+</template>
